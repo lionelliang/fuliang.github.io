@@ -1,6 +1,7 @@
 ﻿---
 layout:     post
 title:      "Complex Order System"
+subtitle:   " \"Hold it up in the light\""
 date:       2016-08-20 12:00:00
 author:     "Fuliang"
 header-img: "img/post-bg-2015.jpg"
@@ -8,7 +9,6 @@ catalog: true
 tags:
     - 项目
 ---
-
 
 作品展示：
 
